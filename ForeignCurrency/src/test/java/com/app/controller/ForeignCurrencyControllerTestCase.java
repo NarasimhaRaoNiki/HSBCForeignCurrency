@@ -19,6 +19,11 @@ import com.app.currency.pojo.CurrencyModel;
 import com.app.currency.pojo.ResponseObject;
 import com.app.currency.service.ICurrencyService;
 
+
+/**
+	 * This ForeignCurrencyControllerTestCase for checking the two end points
+	 */
+
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class ForeignCurrencyControllerTestCase {
